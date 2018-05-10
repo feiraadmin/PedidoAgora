@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "186819461302",
+    "firebase_url": "https://meuappfirebase-85bc9.firebaseio.com",
+    "project_id": "meuappfirebase-85bc9",
+    "storage_bucket": "meuappfirebase-85bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186819461302:android:0cdb4dc20932584f",
+        "android_client_info": {
+          "package_name": "pedidoagora.pedidoagora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186819461302-3u45j5ufs98ilrbf8ief3jo7s1tk0gv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pedidoagora.pedidoagora",
+            "certificate_hash": "d00b66d4f0fc5d2484dec7828e78f453bbf78d46"
+          }
+        },
+        {
+          "client_id": "186819461302-gcsknft2ts86nmkb9lknouml90n5i0ip.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "186819461302-4dn6oogtvfoubl1gsg4gr59j26vnqhrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWaKj0RftM4u2Xo50fYiL_7xWSX8Lzrxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186819461302-gcsknft2ts86nmkb9lknouml90n5i0ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
